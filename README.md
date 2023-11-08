@@ -19,9 +19,6 @@
 效果图
 ![效果图](./public/Snipaste.png)
 
-## 关注公众号
-微信公众号：干货助手
-![](./public/mp.gif)
 
 ## 优化内容
 
